@@ -2,7 +2,7 @@
 README
 
 🏥 Book a Doctor - Professional Healthcare Scheduling Platform
-A full-stack web platform built with Node.js, Express, MongoDB, and React to connect patients with top-rated medical specialists, manage schedules, and streamline healthcare appointments. report link:https://drive.google.com/drive/folders/1uZGlnmFCyLG1-8cbwC5M4Bir9-YfXmCN
+A full-stack web platform built with Node.js, Express, MongoDB, and React to connect patients with top-rated medical specialists, manage schedules, and streamline healthcare appointments. report link:https://drive.google.com/drive/folders/1_4vggEH0fYZD_uf8fvBGTmIFO4026hz7
 🌟 Key Features
 🔐 Authentication & Authorization: Role-based access (Patient, Doctor, Admin) with JWT security & bcrypt password hashing.
 👨‍⚕️ Doctor Directory & Search: Filter byspecialty, experience, rating, and fee range.
